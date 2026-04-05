@@ -21,16 +21,18 @@
 # CELL 1: Imports & Setup
 # =============================================================================
 # Install required packages (uncomment if running in Google Colab)
-# !pip install beautifulsoup4 lxml requests
+# !pip install beautifulsoup4 lxml requests cloudscraper
 
 import requests
 from bs4 import BeautifulSoup
 import csv
+import json
 import time
 import re
 
 # Browser-like headers to avoid 403 Forbidden responses.
 # The Sprouts website blocks requests that don't look like real browsers.
+# We include Sec-Fetch-* headers to better mimic a real Chrome browser.
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -40,21 +42,60 @@ headers = {
     "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive",
     "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Cache-Control": "max-age=0",
 }
 
 # Base URL for the Sprouts website
 BASE_URL = "https://www.sprouts.com"
 
+# Use a Session to persist cookies across requests.
+# Some anti-bot systems set cookies on the first visit and check them later.
+session = requests.Session()
+session.headers.update(headers)
 
-def get_soup(url):
+
+def get_soup(url, retries=3):
     """
     Fetches a URL with browser-like headers and returns a BeautifulSoup object.
-    Includes a 1-second delay between requests to be respectful to the server.
+    Includes a 1.5-second delay between requests to be respectful to the server.
+    Retries up to 3 times with exponential backoff on failure.
     """
-    time.sleep(1)  # polite delay between requests
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()  # raise an error if the request failed
-    return BeautifulSoup(response.text, "lxml")
+    for attempt in range(retries):
+        try:
+            time.sleep(1.5)  # polite delay between requests
+            response = session.get(url)
+            response.raise_for_status()  # raise an error if the request failed
+            return BeautifulSoup(response.text, "lxml")
+        except requests.exceptions.RequestException as e:
+            if attempt < retries - 1:
+                wait_time = 2 ** (attempt + 1)  # exponential backoff: 2s, 4s
+                print(f"    Retry {attempt + 1}/{retries} for {url} (waiting {wait_time}s)...")
+                time.sleep(wait_time)
+            else:
+                raise e
+
+# ---------- FALLBACK (uncomment if requests still gets 403) ----------
+# If you still get 403 errors, try cloudscraper which handles Cloudflare:
+#
+# import cloudscraper
+# scraper = cloudscraper.create_scraper()
+#
+# def get_soup(url, retries=3):
+#     for attempt in range(retries):
+#         try:
+#             time.sleep(1.5)
+#             response = scraper.get(url)
+#             response.raise_for_status()
+#             return BeautifulSoup(response.text, "lxml")
+#         except Exception as e:
+#             if attempt < retries - 1:
+#                 time.sleep(2 ** (attempt + 1))
+#             else:
+#                 raise e
 
 
 # =============================================================================
@@ -115,7 +156,6 @@ def scrape_one_store(url):
     json_ld_scripts = soup.find_all("script", type="application/ld+json")
     for script in json_ld_scripts:
         try:
-            import json
             data = json.loads(script.string)
             # Handle both single object and array formats
             if isinstance(data, list):
@@ -280,6 +320,18 @@ for link in soup.find_all("a", href=True):
         full_url = BASE_URL + href.rstrip("/") + "/"
         if full_url not in state_urls:
             state_urls.append(full_url)
+
+# ---------- FALLBACK ----------
+# If the main directory page uses JavaScript rendering and returns no state links,
+# use this hardcoded list of known Sprouts states as a backup.
+if not state_urls:
+    print("No state links found dynamically. Using hardcoded state list as fallback.")
+    KNOWN_STATES = [
+        "al", "az", "ca", "co", "de", "fl", "ga", "ks", "la", "md",
+        "mo", "nv", "nj", "nm", "ny", "nc", "ok", "pa", "sc", "tn",
+        "tx", "ut", "va", "wa",
+    ]
+    state_urls = [f"{BASE_URL}/stores/{s}/" for s in KNOWN_STATES]
 
 # Sort alphabetically for readability
 state_urls.sort()
