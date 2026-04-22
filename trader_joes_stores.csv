@@ -1,0 +1,648 @@
+Store Name,Store Number,Store Complex,Address,City,State,Zip,Phone Number
+Traderjoes,737,Shopping List,"205 Summit Blvd, Suite 100",Birmingham,AL,35243,205-969-7801
+Traderjoes,838,Shopping List,1769 Montgomery Hwy,Hoover,AL,35244,205-202-7715
+Traderjoes,785,Shopping List,1100 Mid City Dr NW,Huntsville,AL,35806,256-890-7156
+Traderjoes,756,Shopping List,11500 Financial Centre Pky,Little Rock,AR,72211,501-954-7659
+Traderjoes,287,Shopping List,3961 S Arizona Ave,Chandler,AZ,85248,520-453-3452
+Traderjoes,285,Shopping List,1779 E. Williams Field Rd.,Gilbert,AZ,85295,480-857-9878
+Traderjoes,85,Shopping List,8078 W Bell Rd,Glendale,AZ,85308,928-397-9921
+Traderjoes,289,Shopping List,N Bullard Ave & McDowell Rd,Goodyear,AZ,85395,480-712-6645
+Traderjoes,89,Shopping List,2050 E Baseline Rd,Mesa,AZ,85204,480-632-0951
+Traderjoes,96,Shopping List,7912 N Oracle,Oro Valley,AZ,85704,520-797-4207
+Traderjoes,177,Shopping List,"4025 E Chandler Blvd, Ste 38",Phoenix,AZ,85048,480-759-2293
+Traderjoes,282,Shopping List,4726 East Shea Blvd,Phoenix,AZ,85028,602-485-7788
+Traderjoes,90,Shopping List,4821 N 20th St,Phoenix,AZ,85016,602-912-9022
+Traderjoes,283,Shopping List,252 N Lee Blvd,Prescott,AZ,86303,928-443-9075
+Traderjoes,286,Shopping List,21186 S. Ellsworth Loop Rd,Queen Creek,AZ,85142,480-877-7213
+Traderjoes,87,Shopping List,7555 E Frank Lloyd Wright,Scottsdale,AZ,85260,480-367-8920
+Traderjoes,94,Shopping List,6202 N Scottsdale Rd,Scottsdale,AZ,85253,480-948-9886
+Traderjoes,92,Shopping List,14095 W Grand Ave,Surprise,AZ,85374,623-546-1640
+Traderjoes,91,Shopping List,940 E. University Drive,Tempe,AZ,85281,480-303-9974
+Traderjoes,93,Shopping List,6460 S McClintock Dr,Tempe,AZ,85283,480-838-4142
+Traderjoes,191,Shopping List,4209 N Campbell Ave,Tucson,AZ,85719,520-325-0069
+Traderjoes,288,Shopping List,2150 E Broadway Blvd,Tucson,AZ,85719,
+Traderjoes,88,Shopping List,4766 E Grant Rd,Tucson,AZ,85712,520-323-4500
+Traderjoes,95,Shopping List,"1101 N Wilmot Rd, Ste 147",Tucson,AZ,85712,520-733-1313
+Traderjoes,247,Shopping List,28941 Canwood St,Agoura Hills,CA,91301,818-865-8217
+Traderjoes,109,Shopping List,2217 South Shore Ctr,Alameda,CA,94501,510-769-5450
+Traderjoes,195,Shopping List,26541 Aliso Creek Rd,Aliso Viejo,CA,92656,949-643-5531
+Traderjoes,295,Shopping List,6336 E Santa Ana Canyon Rd,Anaheim Hills,CA,92807,
+Traderjoes,117,Shopping List,955 Rancho Pkwy,Arroyo Grande,CA,93420,805-474-6114
+Traderjoes,14,Shopping List,"8200 Stockdale Hwy, #C21",Bakersfield,CA,93311,661-837-8863
+Traderjoes,186,Shopping List,1885 University Ave,Berkeley,CA,94703,510-204-9074
+Traderjoes,11,Shopping List,2500 E Imperial Hwy,Brea,CA,92821,714-257-1180
+Traderjoes,201,Shopping List,5451 Lone Tree Way,Brentwood,CA,94513,925-516-3044
+Traderjoes,124,Shopping List,214 E Alameda Ave,Burbank,CA,91502,818-848-4299
+Traderjoes,254,Shopping List,23741 Calabasas Rd.,Calabasas,CA,91302,818-591-6758
+Traderjoes,114,Shopping List,363 Carmen Dr,Camarillo,CA,93010,805-388-1925
+Traderjoes,73,Shopping List,1875 Bascom Ave,Campbell,CA,95008,408-369-7823
+Traderjoes,64,Shopping List,"3555 Clares St, #D",Capitola,CA,95010,831-464-0115
+Traderjoes,220,Shopping List,2629 Gateway Rd,Carlsbad,CA,92009,760-603-8473
+Traderjoes,84,Shopping List,22224 Redwood Road,Castro Valley,CA,94546,510-538-2738
+Traderjoes,118,Shopping List,67720 E Palm Canyon Dr,Cathedral City,CA,92234,760-202-0090
+Traderjoes,104,Shopping List,12861 Towne Center Dr,Cerritos,CA,90703,562-402-5148
+Traderjoes,184,Shopping List,10330 Mason Ave,Chatsworth,CA,91311,818-341-3010
+Traderjoes,199,Shopping List,"801 East Ave, Ste 110",Chico,CA,95926,530-343-9920
+Traderjoes,216,Shopping List,13911 Peyton Drive,Chino Hills,CA,91709,909-627-1404
+Traderjoes,120,Shopping List,"878 Eastlake Pkwy, Ste 810",Chula Vista,CA,91914,619-656-5370
+Traderjoes,214,Shopping List,475 W Foothill Blvd,Claremont,CA,91711,909-625-8784
+Traderjoes,180,Shopping List,1077 N Willow Ave,Clovis,CA,93611,559-325-3120
+Traderjoes,60,Shopping List,1150 Concord Ave,Concord,CA,94520,925-689-2990
+Traderjoes,83,Shopping List,785 Oak Grove Rd,Concord,CA,94518,925-521-1134
+Traderjoes,213,Shopping List,2790 Cabot Dr,Corona,CA,92883,951-603-0299
+Traderjoes,290,Shopping List,"2170 Harbor Blvd, Ste 100",Costa Mesa,CA,92627,949-208-7420
+Traderjoes,35,Shopping List,640 W 17th St,Costa Mesa,CA,92627,949-642-5134
+Traderjoes,251,Shopping List,6150 Slauson Ave,Culver City,CA,90230,310-313-0441
+Traderjoes,36,Shopping List,9290 Culver Blvd,Culver City,CA,90232,310-202-1108
+Traderjoes,242,Shopping List,5245 Katella Ave.,Cypress,CA,90720,714-220-4930
+Traderjoes,74,Shopping List,417 Westlake Center,Daly City,CA,94015,650-755-3825
+Traderjoes,65,Shopping List,85 Railroad Ave,Danville,CA,94526,925-838-5757
+Traderjoes,182,Shopping List,885 Russell Blvd,Davis,CA,95616,530-757-2693
+Traderjoes,55,Shopping List,1566 Colorado Blvd,Eagle Rock,CA,90041,323-257-6422
+Traderjoes,108,Shopping List,225 El Cerrito Plaza,El Cerrito,CA,94530,510-524-7609
+Traderjoes,190,Shopping List,9670 Bruceville Road,Elk Grove,CA,95757,916-686-9980
+Traderjoes,72,Shopping List,5700 Christie Ave,Emeryville,CA,94608,510-658-8091
+Traderjoes,25,Shopping List,"115 N El Camino Real, Ste A",Encinitas,CA,92024,760-634-2114
+Traderjoes,56,Shopping List,17640 Burbank Blvd,Encino,CA,91316,818-990-7751
+Traderjoes,105,Shopping List,1885 S Centre City Pkwy,Escondido,CA,92025,760-233-4020
+Traderjoes,71,Shopping List,5309 Sunrise Blvd,Fair Oaks,CA,95628,916-863-1744
+Traderjoes,101,Shopping List,"1350 Gateway Blvd, Ste A1-A7",Fairfield,CA,94533,707-434-0144
+Traderjoes,172,Shopping List,850 East Bidwell,Folsom,CA,95630,916-817-8820
+Traderjoes,77,Shopping List,39324 Argonaut Way,Fremont,CA,94538,510-794-1386
+Traderjoes,8,Shopping List,8478 N. Friant Road,Fresno,CA,93720,559-433-6478
+Traderjoes,53,Shopping List,103 E Glenoaks Blvd,Glendale,CA,91207,818-507-8192
+Traderjoes,110,Shopping List,5767 Calle Real,Goleta,CA,93117,805-692-2234
+Traderjoes,44,Shopping List,11114 Balboa Blvd,Granada Hills,CA,91344,818-368-6461
+Traderjoes,235,Shopping List,2052 Redwood Hwy,Greenbrae,CA,94904,415-945-7955
+Traderjoes,248,Shopping List,1100 Pacific Coast Hwy,Hermosa Beach,CA,90254,310-318-1767
+Traderjoes,241,Shopping List,21431 Brookhurst St,Huntington Beach,CA,92646,714-968-4070
+Traderjoes,244,Shopping List,16821 Algonquin St,Huntington Beach,CA,92649,714-846-7307
+Traderjoes,47,Shopping List,18681 Main St,Huntington Beach,CA,92648,714-848-9640
+Traderjoes,111,Shopping List,4225 Campus Dr,Irvine,CA,92612,949-509-6138
+Traderjoes,210,Shopping List,6222 Irvine Blvd,Irvine,CA,92620,949-551-6402
+Traderjoes,37,Shopping List,14443 Culver Dr,Irvine,CA,92604,949-857-8108
+Traderjoes,42,Shopping List,475 Foothill Blvd,La Canada,CA,91011,818-790-6373
+Traderjoes,5,Shopping List,"2101 W. Imperial Hwy, Suite A",La Habra,CA,90631,562-266-1428
+Traderjoes,20,Shopping List,8657 Villa la Jolla Dr,La Jolla,CA,92037,858-546-8629
+Traderjoes,24,Shopping List,5495 Grossmont Center Dr,La Mesa,CA,91942,619-466-0105
+Traderjoes,189,Shopping List,46400 Washington St,La Quinta,CA,92253,760-777-1553
+Traderjoes,277,Shopping List,2330 Foothill Blvd,La Verne,CA,91750,909-901-4568
+Traderjoes,257,Shopping List,27542 Antonio Pkwy,Ladera Ranch,CA,92694,949-239-6429
+Traderjoes,115,Shopping List,3649 Mt Diablo Blvd,Lafayette,CA,94549,925-299-9344
+Traderjoes,39,Shopping List,"24231 Avenida De La Carlota, Suite 100",Laguna Hills,CA,92653,949-461-0927
+Traderjoes,103,Shopping List,32351 Street of the Golden Lantern,Laguna Niguel,CA,92677,949-493-8599
+Traderjoes,208,Shopping List,1122 A East Stanley Blvd,Livermore,CA,94550,925-243-1947
+Traderjoes,116,Shopping List,4210 Long Beach Blvd,Long Beach,CA,90807,562-422-1020
+Traderjoes,194,Shopping List,2222 North Bellflower Blvd,Long Beach,CA,90815,562-596-2514
+Traderjoes,43,Shopping List,6451 E Pacific Coast  Hwy,Long Beach,CA,90803,562-596-4388
+Traderjoes,127,Shopping List,2310 Homestead Rd,Los Altos,CA,94024,408-245-1917
+Traderjoes,119,Shopping List,3456 S Sepulveda Blvd,Los Angeles,CA,90034,310-836-2458
+Traderjoes,17,Shopping List,2738 Hyperion Ave,Los Angeles,CA,90027,323-665-6774
+Traderjoes,192,Shopping List,8000 W Sunset Blvd,Los Angeles,CA,90046,323-822-7663
+Traderjoes,206,Shopping List,1600 N Vine St,Los Angeles,CA,90028,323-856-0689
+Traderjoes,215,Shopping List,11755 Olympic Blvd,Los Angeles,CA,90064,310-477-5949
+Traderjoes,234,Shopping List,1000 Glendon Ave,Los Angeles,CA,90024,310-824-1495
+Traderjoes,237,Shopping List,8500 Burton Way,Los Angeles,CA,90048,310-248-2984
+Traderjoes,240,Shopping List,175 South Fairfax Ave,Los Angeles,CA,90036,323-931-4012
+Traderjoes,250,Shopping List,"3131 S Hoover Street, Suite 1920",Los Angeles,CA,90089,213-749-1497
+Traderjoes,31,Shopping List,263 S La Brea Ave,Los Angeles,CA,90036,323-965-1989
+Traderjoes,7,Shopping List,10850 National Blvd,Los Angeles,CA,90064,310-470-1917
+Traderjoes,181,Shopping List,15466 Los Gatos Blvd,Los Gatos,CA,95032,408-356-2324
+Traderjoes,106,Shopping List,1800 Rosecrans Blvd,Manhattan Beach,CA,90266,310-725-9800
+Traderjoes,34,Shopping List,1821 Manhattan Beach Blvd,Manhattan Beach,CA,90266,310-372-1274
+Traderjoes,205,Shopping List,4675 Admiralty Way,Marina Del Rey,CA,90292,310-301-4461
+Traderjoes,261,Shopping List,150 10th St,Marina,CA,93933,831-281-7247
+Traderjoes,69,Shopping List,720 Menlo Ave,Menlo Park,CA,94025,650-323-2134
+Traderjoes,170,Shopping List,765 Broadway,Millbrae,CA,94030,650-259-9142
+Traderjoes,229,Shopping List,1306 Great Mall Pkwy,Milpitas,CA,95035,408-942-6957
+Traderjoes,126,Shopping List,25410 Marguerite Pkwy,Mission Viejo,CA,92692,949-581-5638
+Traderjoes,9,Shopping List,3250 Dale Road,Modesto,CA,95356,209-491-0445
+Traderjoes,112,Shopping List,604 W Huntington Dr,Monrovia,CA,91016,626-358-8884
+Traderjoes,204,Shopping List,"570 Munras Ave, Ste 20",Monterey,CA,93940,831-372-2010
+Traderjoes,52,Shopping List,2462 Honolulu Ave,Montrose,CA,91020,818-957-3613
+Traderjoes,202,Shopping List,17035 Laurel Rd,Morgan Hill,CA,95037,408-778-6409
+Traderjoes,81,Shopping List,590 Showers Dr,Mountain View,CA,94040,650-917-1013
+Traderjoes,258,Shopping List,40388 Murrieta Hot Springs Rd,Murrieta,CA,92563,951-528-5115
+Traderjoes,128,Shopping List,3654 Bel Aire Plaza,Napa,CA,94558,707-256-0806
+Traderjoes,125,Shopping List,8086 E Pacific Coast Hwy,Newport Beach,CA,92657,949-494-7404
+Traderjoes,252,Shopping List,"6130 Laurel Canyon Bl, Suite 100",North Hollywood,CA,91606,818-762-2963
+Traderjoes,312,Shopping List,9224 Reseda Blvd,Northridge,CA,91325,747-245-4766
+Traderjoes,198,Shopping List,7514 Redwood Blvd,Novato,CA,94945,415-898-9359
+Traderjoes,203,Shopping List,3250 Lakeshore Ave,Oakland,CA,94610,510-238-9076
+Traderjoes,231,Shopping List,5727 College Ave,Oakland,CA,94618,510-923-9428
+Traderjoes,22,Shopping List,2570 Vista Way,Oceanside,CA,92054,760-433-9994
+Traderjoes,46,Shopping List,2114 N Tustin St,Orange,CA,92865,714-283-5697
+Traderjoes,79,Shopping List,1170 Forest Ave,Pacific Grove,CA,93950,831-656-0180
+Traderjoes,3,Shopping List,44250 Town Center Way,Palm Desert,CA,92260,760-340-2291
+Traderjoes,185,Shopping List,39507 10th St W,Palmdale,CA,93551,661-947-2890
+Traderjoes,207,Shopping List,855 El Camino Real,Palo Alto,CA,94301,650-327-7018
+Traderjoes,171,Shopping List,467 N Rosemead Blvd,Pasadena,CA,91107,626-351-3399
+Traderjoes,179,Shopping List,345 S Lake Ave,Pasadena,CA,91101,626-395-9553
+Traderjoes,32,Shopping List,3035 E Huntington Dr,Pasadena,CA,91107,626-356-2963
+Traderjoes,51,Shopping List,610 S Arroyo Pkwy,Pasadena,CA,91105,626-568-9254
+Traderjoes,291,Shopping List,2457 Golden Hill Rd,Paso Robles,CA,93446,
+Traderjoes,107,Shopping List,169 N McDowell Blvd,Petaluma,CA,94954,707-769-2782
+Traderjoes,230,Shopping List,2742 Pinole Valley Rd,Pinole,CA,94564,510-222-3501
+Traderjoes,66,Shopping List,3903 Santa Rita Road,Pleasanton,CA,94588,925-468-0763
+Traderjoes,265,Shopping List,13644 Poway Rd,Poway,CA,92064,858-294-6131
+Traderjoes,217,Shopping List,6401 Haven Ave,Rancho Cucamonga,CA,91737,909-476-1410
+Traderjoes,233,Shopping List,31176 Hawthorne Blvd,Rancho Palos Verdes,CA,90275,310-544-1727
+Traderjoes,57,Shopping List,28901 S Western Ave,Rancho Palos Verdes,CA,90275,310-832-1241
+Traderjoes,27,Shopping List,30652 Santa Margarita Pkwy,Rancho Santa Margarita,CA,92688,949-888-3640
+Traderjoes,219,Shopping List,845 Browning St,Redding,CA,96003,530-223-4875
+Traderjoes,99,Shopping List,552 Orange St,Redlands,CA,92374,909-798-3888
+Traderjoes,38,Shopping List,1761 S Elena Ave,Redondo Bch.,CA,90277,310-316-1745
+Traderjoes,15,Shopping List,6225 Riverside Plaza,Riverside,CA,92506,951-781-2378
+Traderjoes,228,Shopping List,"5116 Commons Dr., #103",Rocklin,CA,95677,916-660-9820
+Traderjoes,266,Shopping List,10261 Fairway Dr,Roseville,CA,95678,279-217-4579
+Traderjoes,80,Shopping List,1117 Roseville Square,Roseville,CA,95678,916-784-9084
+Traderjoes,18,Shopping List,613 Mission St,S. Pasadena,CA,91030,626-441-6263
+Traderjoes,175,Shopping List,5000 Folsom Blvd,Sacramento,CA,95819,916-456-1853
+Traderjoes,70,Shopping List,2625 Marconi Ave,Sacramento,CA,95821,916-481-8797
+Traderjoes,174,Shopping List,1482 El Camino Real,San Carlos,CA,94070,650-594-2138
+Traderjoes,16,Shopping List,638 Camino de Los Mares,San Clemente,CA,92673,949-240-9996
+Traderjoes,188,Shopping List,2401 Truxtun Rd,San Diego,CA,92106,619-758-9272
+Traderjoes,21,Shopping List,1640 Garnet Ave,San Diego,CA,92109,858-581-9101
+Traderjoes,221,Shopping List,9850 Hibert St,San Diego,CA,92131,858-549-9185
+Traderjoes,222,Shopping List,1072 Camino Del Rio North,San Diego,CA,92108,619-297-0749
+Traderjoes,223,Shopping List,13480 Highlands Place,San Diego,CA,92130,858-755-7130
+Traderjoes,224,Shopping List,"5140 College Ave, Ste 119",San Diego,CA,92115,619-229-9092
+Traderjoes,23,Shopping List,11955 Carmel Mountain Rd,San Diego,CA,92128,858-673-0526
+Traderjoes,26,Shopping List,"1090 University Avenue, Ste G100-107",San Diego,CA,92103,619-296-3122
+Traderjoes,28,Shopping List,856 W Arrow Hwy,San Dimas,CA,91773,909-305-4757
+Traderjoes,100,Shopping List,3 Masonic Ave,San Francisco,CA,94118,415-346-9964
+Traderjoes,19,Shopping List,401 Bay St,San Francisco,CA,94133,415-351-1013
+Traderjoes,200,Shopping List,1095 Hyde St,San Francisco,CA,94109,415-292-7665
+Traderjoes,225,Shopping List,10 4th Street,San Francisco,CA,94103,415-536-7801
+Traderjoes,226,Shopping List,788 Laguna St,San Francisco,CA,94102,415-718-0175
+Traderjoes,236,Shopping List,265 Winston Dr,San Francisco,CA,94132,415-665-1835
+Traderjoes,78,Shopping List,555 9th St,San Francisco,CA,94103,415-863-1292
+Traderjoes,212,Shopping List,635 Coleman Ave,San Jose,CA,95110,408-298-9731
+Traderjoes,232,Shopping List,7250 Bollinger Rd,San Jose,CA,95129,408-873-7384
+Traderjoes,62,Shopping List,5269 Prospect,San Jose,CA,95129,408-446-5055
+Traderjoes,63,Shopping List,5353 Almaden Expressway #J-38,San Jose,CA,95118,408-264-8120
+Traderjoes,249,Shopping List,32151 Camino Capistrano,San Juan Capistrano,CA,92675,949-496-4150
+Traderjoes,41,Shopping List,3977 Higuera Street,San Luis Obispo,CA,93401,805-783-2780
+Traderjoes,245,Shopping List,45 W Hillsdale Blvd,San Mateo,CA,94403,650-286-1509
+Traderjoes,67,Shopping List,1820-22 S Grant Street,San Mateo,CA,94402,650-570-6140
+Traderjoes,61,Shopping List,337 3rd St,San Rafael,CA,94901,415-454-9530
+Traderjoes,246,Shopping List,300 Market Place,San Ramon,CA,94583,925-275-8140
+Traderjoes,113,Shopping List,3329 S Bristol St,Santa Ana,CA,92704,714-424-9304
+Traderjoes,183,Shopping List,3025 De La Vina St,Santa Barbara,CA,93105,805-563-7383
+Traderjoes,59,Shopping List,222 North Milpas Street,Santa Barbara,CA,93103,805-560-1182
+Traderjoes,13,Shopping List,26517 Bouquet Canyon Rd,Santa Clarita,CA,91350,661-263-3796
+Traderjoes,263,Shopping List,19037 Golden Valley Rd,Santa Clarita,CA,91387,661-276-1430
+Traderjoes,193,Shopping List,700 Front St,Santa Cruz,CA,95060,831-425-0140
+Traderjoes,239,Shopping List,1303 S Bradley Rd,Santa Maria,CA,93454,805-925-1657
+Traderjoes,253,Shopping List,"2300 Wilshire Blvd, Ste 101",Santa Monica,CA,90403,310-264-2223
+Traderjoes,256,Shopping List,500 Broadway,Santa Monica,CA,90401,310-912-6877
+Traderjoes,6,Shopping List,3212 Pico Blvd,Santa Monica,CA,90405,310-581-0253
+Traderjoes,178,Shopping List,2100 Santa Rosa Ave,Santa Rosa,CA,95407,707-535-0788
+Traderjoes,75,Shopping List,3225 Cleveland Ave,Santa Rosa,CA,95403,707-525-1406
+Traderjoes,260,Shopping List,9680 Mission Gorge Rd,Santee,CA,92071,619-812-3705
+Traderjoes,267,Shopping List,14140 Riverside Dr,Sherman Oaks,CA,91423,747-245-6608
+Traderjoes,49,Shopping List,14119 Riverside Dr,Sherman Oaks,CA,91423,818-789-2771
+Traderjoes,30,Shopping List,2975-A Cochran St,Simi Valley,CA,93065,805-520-3135
+Traderjoes,4,Shopping List,1129 Fair Oaks Ave,South Pasadena,CA,91030,323-784-1840
+Traderjoes,187,Shopping List,301 MC Lellan Dr,South San Francisco,CA,94080,650-583-6401
+Traderjoes,76,Shopping List,6535 Pacific Ave,Stockton,CA,95207,209-951-7597
+Traderjoes,122,Shopping List,11976 Ventura Blvd,Studio City,CA,91604,818-509-0168
+Traderjoes,68,Shopping List,316 West El Camino Real,Sunnyvale,CA,94087,408-736-7573
+Traderjoes,264,Shopping List,18700 Ventura Blvd,Tarzana,CA,91356,747-212-1646
+Traderjoes,102,Shopping List,40665 Winchester Rd,Temecula,CA,92591,951-296-9964
+Traderjoes,211,Shopping List,1111 Rossi Road,Templeton,CA,93465,805-434-9562
+Traderjoes,196,Shopping List,451 Avenida De Los Arboles,Thousand Oaks,CA,91360,805-492-7107
+Traderjoes,243,Shopping List,125 N Reino Road,Thousand Oaks,CA,91320,805-375-1984
+Traderjoes,54,Shopping List,10130 Riverside Dr,Toluca Lake,CA,91602,818-762-2787
+Traderjoes,121,Shopping List,19720 Hawthorne Blvd,Torrance,CA,90503,310-793-8585
+Traderjoes,29,Shopping List,2545 Pacific Coast Hwy,Torrance,CA,90505,310-326-9520
+Traderjoes,269,Shopping List,2530 Naglee Rd,Tracy,CA,95304,209-913-5511
+Traderjoes,197,Shopping List,1198 Irvine Blvd.,Tustin,CA,92780,714-505-3289
+Traderjoes,218,Shopping List,"103 S Mills Rd, Ste 104",Ventura,CA,93003,805-658-2664
+Traderjoes,45,Shopping List,1795 S. Victoria Ave,Ventura,CA,93003,805-650-9977
+Traderjoes,259,Shopping List,1861 University Dr,Vista,CA,92083,760-502-9816
+Traderjoes,123,Shopping List,1372 S California Blvd,Walnut Creek,CA,94596,925-945-1674
+Traderjoes,50,Shopping List,6751 Fallbrook Ave,West Hills,CA,91307,818-347-2591
+Traderjoes,173,Shopping List,8611 Santa Monica Blvd,West Hollywood,CA,90069,310-657-0152
+Traderjoes,40,Shopping List,7310 Santa Monica Blvd,West Hollywood,CA,90046,323-969-8048
+Traderjoes,33,Shopping List,8645 S Sepulveda,Westchester,CA,90045,310-338-9238
+Traderjoes,58,Shopping List,3835 E Thousand Oaks Blvd,Westlake Village,CA,91362,805-494-5040
+Traderjoes,48,Shopping List,15025 E Whittier Blvd,Whittier,CA,90603,562-698-1642
+Traderjoes,209,Shopping List,21055 Ventura Blvd,Woodland Hills,CA,91364,818-712-9475
+Traderjoes,176,Shopping List,19655 Yorba Linda Blvd,Yorba Linda,CA,92886,714-970-0116
+Traderjoes,268,Shopping List,31545 Yucaipa Boulevard,Yucaipa,CA,92399,909-951-6154
+Traderjoes,301,Shopping List,1906 28th St,Boulder,CO,80301,303-443-0160
+Traderjoes,305,Shopping List,5342 N Nevada Ave,Colorado Springs,CO,80918,719-264-0123
+Traderjoes,315,Shopping List,5338 N Nevada Avenue,Colorado Springs,CO,80918,719-266-6838
+Traderjoes,300,Shopping List,750 N Colorado Blvd,Denver,CO,80206,303-321-1003
+Traderjoes,302,Shopping List,661 Logan Street,Denver,CO,80203,303-318-7112
+Traderjoes,310,Shopping List,790 N Colorado Blvd,Denver,CO,80206,303-321-3245
+Traderjoes,304,Shopping List,"3500 S College Ave, Ste 110",Fort Collins,CO,80525,970-223-3560
+Traderjoes,303,Shopping List,"5910 S University Blvd, Suite E1",Greenwood Village,CO,80121,303-730-3848
+Traderjoes,306,Shopping List,"8055 West Bowles Ave, Unit 3A",Littleton,CO,80123,720-981-4563
+Traderjoes,309,Shopping List,"18374 Cottonwood Drive, #150",Parker,CO,80138,720-851-0549
+Traderjoes,308,Shopping List,9350 Sheridan Blvd,Westminster,CO,80031,720-710-5391
+Traderjoes,525,Shopping List,113 Mill Plain Rd,Danbury,CT,06811,203-739-0098
+Traderjoes,522,Shopping List,436 Boston Post Rd,Darien,CT,06820,203-656-1414
+Traderjoes,523,Shopping List,2258 Black Rock Turnpike,Fairfield,CT,06825,203-330-8301
+Traderjoes,586,Shopping List,400 Hebron Ave,Glastonbury,CT,06033,860-633-9270
+Traderjoes,597,Shopping List,46 Skiff St,Hamden,CT,06517,475-293-3774
+Traderjoes,563,Shopping List,1510 Pleasant Valley Road,Manchester,CT,06042,860-644-3182
+Traderjoes,524,Shopping List,560 Boston Post Rd,Orange,CT,06477,203-795-5505
+Traderjoes,587,Shopping List,775 Bridgeport Ave,Shelton,CT,06484,475-325-6306
+Traderjoes,529,Shopping List,1041 High Ridge Rd,Stamford,CT,06905,203-321-8440
+Traderjoes,526,Shopping List,1489 New Britain Ave,West Hartford,CT,06110,860-561-4771
+Traderjoes,521,Shopping List,400 Post Road E,Westport,CT,06880,203-226-8966
+Traderjoes,620,Shopping List,"2101 Wisconsin Ave NW, Suite A",Washington,DC,20007,202-944-8403
+Traderjoes,621,Shopping List,350 Florida Ave. NE,Washington,DC,20002,202-608-1023
+Traderjoes,622,Shopping List,750 Pennsylvania Ave SE,Washington,DC,20003,202-698-0190
+Traderjoes,653,Shopping List,1101 25th Street NW,Washington,DC,20037,202-296-1921
+Traderjoes,662,Shopping List,1914 14th St NW,Washington,DC,20009,202-986-1591
+Traderjoes,819,Shopping List,5335 Wisconsin Ave NW,Washington,DC,20015,227-229-0636
+Traderjoes,820,Shopping List,701 Monroe St NE,Washington,DC,20017,202-677-7460
+Traderjoes,759,Shopping List,2500 Fashion Center Blvd.,Newark,DE,19702,302-292-6825
+Traderjoes,636,Shopping List,5605 Concord Pike,Wilmington,DE,19803,302-478-8494
+Traderjoes,773,Shopping List,855 S Federal Hwy,Boca Raton,FL,33432,561-338-5031
+Traderjoes,780,Shopping List,8111 Cooper Creek Blvd,Bradenton,FL,34201,941-355-2394
+Traderjoes,781,Shopping List,211 S. Dixie Highway,Coral Gables,FL,33133,305-442-5402
+Traderjoes,782,Shopping List,2796 N. University Drive,Coral Springs,FL,33065,954-227-3407
+Traderjoes,778,Shopping List,2296 S University Dr,Davie,FL,33324,954-512-2968
+Traderjoes,797,Shopping List,1511 Cornerstone Blvd,Daytona Beach,FL,32117,386-308-1218
+Traderjoes,771,Shopping List,"1851 S Federal Hwy, Ste 500",Delray Beach,FL,33483,561-278-1493
+Traderjoes,776,Shopping List,1560 N Federal Hwy,Fort Lauderdale,FL,33304,954-537-3585
+Traderjoes,784,Shopping List,4983 S. Cleveland Avenue,Fort Myers,FL,33907,239-275-1712
+Traderjoes,764,Shopping List,3724 SW Archer Rd,Gainesville,FL,32608,352-378-9321
+Traderjoes,760,Shopping List,4180 S 3rd St,Jacksonville Beach,FL,32250,904-241-1770
+Traderjoes,769,Shopping List,11112 San Jose Blvd,Jacksonville,FL,32223,904-880-0582
+Traderjoes,848,Shopping List,"2221 Town Center Ave, Ste 101",Melbourne,FL,32940,321-338-3418
+Traderjoes,779,Shopping List,1683 West Ave,Miami Beach,FL,33139,305-534-4951
+Traderjoes,770,Shopping List,9205 S Dixie Hwy,Miami,FL,33156,305-661-1432
+Traderjoes,794,Shopping List,3191 NE 1st Ave,Miami,FL,33137,786-422-0606
+Traderjoes,762,Shopping List,10600 Tamiami Trail N,Naples,FL,34108,239-596-5631
+Traderjoes,768,Shopping List,8323 Sand Lake Rd,Orlando,FL,32819,407-345-0611
+Traderjoes,876,Shopping List,1444 North Alafaya Trail,Orlando,FL,32828,
+Traderjoes,772,Shopping List,2560 PGA Blvd,Palm Beach Gardens,FL,33410,561-514-6770
+Traderjoes,795,Shopping List,33597 US Hwy 19 N,Palm Harbor,FL,34684,727-436-4019
+Traderjoes,775,Shopping List,11960 Pines Blvd,Pembroke Pines,FL,33026,954-432-0405
+Traderjoes,761,Shopping List,4101 S Tamiami Trail,Sarasota,FL,34231,941-922-5727
+Traderjoes,767,Shopping List,2742 4th St N,St. Petersburg,FL,33704,727-824-0907
+Traderjoes,763,Shopping List,"3425 Thomasville Rd, Unit 19",Tallahassee,FL,32309,850-894-2538
+Traderjoes,766,Shopping List,3808 W Swann Ave,Tampa,FL,33609,813-872-6846
+Traderjoes,774,Shopping List,2877 South State Rd 7,Wellington,FL,33414,561-656-1067
+Traderjoes,796,Shopping List,8111 S Dixie Highway,West Palm Beach,FL,33405,
+Traderjoes,765,Shopping List,131 Orlando Ave.,Winter Park,FL,32789,407-622-0874
+Traderjoes,798,Shopping List,1605 Halcyon Days Trail,Alpharetta,GA,30005,470-762-3171
+Traderjoes,736,Shopping List,"1850 Epps Bridge Pkwy, Ste 331",Athens,GA,30606,706-583-8934
+Traderjoes,730,Shopping List,931 Monroe Dr,Atlanta,GA,30308,404-815-9210
+Traderjoes,735,Shopping List,3183 Peachtree Rd,Atlanta,GA,30305,404-842-0907
+Traderjoes,806,Shopping List,1000 Medley Blvd,Johns Creek,GA,30097,
+Traderjoes,732,Shopping List,4250 Roswell Road,Marietta,GA,30062,678-560-3585
+Traderjoes,734,Shopping List,"5185 Peachtree Pkwy, Ste 101",Norcross,GA,30092,678-966-9236
+Traderjoes,800,Shopping List,258 City Circle,Peachtree City,GA,30269,404-907-2283
+Traderjoes,733,Shopping List,635 W Crossville Rd,Roswell,GA,30075,770-645-8505
+Traderjoes,731,Shopping List,6277 Roswell Road NE,Sandy Springs,GA,30328,404-236-2414
+Traderjoes,799,Shopping List,4600 Roswell Rd,Sandy Springs,GA,30342,770-678-7294
+Traderjoes,728,Shopping List,920 Ponseti Way,Coralville,IA,52241,319-351-7223
+Traderjoes,721,Shopping List,"6305 Mills Civic Pkwy, Ste 2111",West Des Moines,IA,50266,515-225-3820
+Traderjoes,360,Shopping List,300 S Capitol Blvd,Boise,ID,83702,208-336-7282
+Traderjoes,362,Shopping List,303 E Spokane Ave,Coeur d&#x27;Alene,ID,83814,208-214-8293
+Traderjoes,361,Shopping List,2986 N. Eagle RD.,Meridian,ID,83646,208-506-2978
+Traderjoes,699,Shopping List,1800 S Randall Rd,Algonquin,IL,60102,847-854-4886
+Traderjoes,687,Shopping List,17 W Rand Rd,Arlington Heights,IL,60004,847-506-0752
+Traderjoes,689,Shopping List,1942 W Fabyan Pkwy,Batavia,IL,60510,630-879-3234
+Traderjoes,688,Shopping List,3745 N Lincoln Ave,Chicago,IL,60613,773-248-4920
+Traderjoes,691,Shopping List,1840 N Clybourn Ave,Chicago,IL,60614,312-274-9733
+Traderjoes,696,Shopping List,44 E Ontario St,Chicago,IL,60611,312-951-6369
+Traderjoes,701,Shopping List,1147 S Wabash Ave,Chicago,IL,60605,312-588-0489
+Traderjoes,703,Shopping List,667 W Diversey Pkwy,Chicago,IL,60614,773-935-7255
+Traderjoes,706,Shopping List,1528 E 55th Street,Chicago,IL,60615,773-363-8831
+Traderjoes,683,Shopping List,122 Ogden Ave,Downers Grove,IL,60515,630-241-1662
+Traderjoes,702,Shopping List,1211 Chicago Avenue,Evanston,IL,60202,847-733-0690
+Traderjoes,680,Shopping List,680 Roosevelt Rd,Glen Ellyn,IL,60137,630-858-5077
+Traderjoes,681,Shopping List,1407 Waukegan Rd,Glenview,IL,60025,847-657-7821
+Traderjoes,685,Shopping List,25 N La Grange Rd,La Grange,IL,60525,708-579-0838
+Traderjoes,684,Shopping List,735 W Route 22,Lake Zurich,IL,60047,847-550-7827
+Traderjoes,704,Shopping List,1600 S Milwaukee Ave,Libertyville,IL,60048,847-680-1739
+Traderjoes,690,Shopping List,44 W Gartner Rd,Naperville,IL,60540,630-355-4389
+Traderjoes,682,Shopping List,127 Skokie Blvd,Northbrook,IL,60062,847-480-9280
+Traderjoes,697,Shopping List,483 N Harlem Ave,Oak Park,IL,60301,708-386-1169
+Traderjoes,686,Shopping List,14924 S La Grange Rd,Orland Park,IL,60462,708-349-9021
+Traderjoes,861,Shopping List,1930 US-34,Oswego,IL,60543,
+Traderjoes,698,Shopping List,190 N NW Highway,Park Ridge,IL,60068,847-292-1108
+Traderjoes,705,Shopping List,1426 E Golf Rd,Schaumburg,IL,60173,847-619-0095
+Traderjoes,757,Shopping List,"4110 W. Jefferson Blvd., Suite D-2",Fort Wayne,IN,46804,260-432-5828
+Traderjoes,670,Shopping List,2902 W 86th St,Indianapolis,IN,46268,317-337-1880
+Traderjoes,671,Shopping List,5473 E 82nd St,Indianapolis,IN,46250,317-595-8950
+Traderjoes,600,Shopping List,1140 East Howard,South Bend,IN,46617,574-472-8744
+Traderjoes,723,Shopping List,4201 W 119th St,Leawood,KS,66209,913-327-7209
+Traderjoes,821,Shopping List,8700 Shawnee Mission Pkwy,Merriam,KS,66202,
+Traderjoes,729,Shopping List,"1800 N. Rock Road, Suite 120",Wichita,KS,67206,316-634-1846
+Traderjoes,788,Shopping List,2780 Dixie Highway,Crestview Hills,KY,41017,859-331-0034
+Traderjoes,789,Shopping List,2785 Dixie Highway,Crestview Hills,KY,41017,859-331-1472
+Traderjoes,626,Shopping List,2320 Nicholasville Road,Lexington,KY,40503,859-277-0144
+Traderjoes,627,Shopping List,2326 Nicholasville Rd,Lexington,KY,40503,859-313-5030
+Traderjoes,625,Shopping List,"4600 Shelbyville Rd Ste 112, Ste 112",Louisville,KY,40207,502-895-7872
+Traderjoes,628,Shopping List,"4600 Shelbyville Rd, Ste 111",Louisville,KY,40207,502-895-1361
+Traderjoes,754,Shopping List,3535 Perkins Rd,Baton Rouge,LA,70808,225-382-0588
+Traderjoes,807,Shopping List,1710 Camellia Blvd,Lafayette,LA,70508,
+Traderjoes,863,Shopping List,3377 U.S. Hwy 190,Mandeville,LA,70471,
+Traderjoes,755,Shopping List,2949 Veterans Blvd,Metairie,LA,70002,504-831-0253
+Traderjoes,793,Shopping List,2428 Napoleon Ave,New Orleans,LA,70115,
+Traderjoes,811,Shopping List,2501 Tulane Ave,New Orleans,LA,70119,504-229-9973
+Traderjoes,511,Shopping List,145 Great Rd,Acton,MA,01720,978-266-8908
+Traderjoes,561,Shopping List,199 N Harvard St,Allston,MA,02134,617-787-1238
+Traderjoes,505,Shopping List,1427 Massachusetts Ave,Arlington,MA,02476,781-646-9138
+Traderjoes,500,Shopping List,500 Boylston St,Boston,MA,02116,617-693-6302
+Traderjoes,510,Shopping List,899 Boylston St,Boston,MA,02115,617-262-6505
+Traderjoes,566,Shopping List,44 Thomson Place,Boston,MA,02210,617-941-3714
+Traderjoes,588,Shopping List,1999 Centre St,Boston,MA,02132,617-682-7600
+Traderjoes,501,Shopping List,1317 Beacon St,Brookline,MA,02446,617-278-9997
+Traderjoes,515,Shopping List,51 Middlesex Turnpike,Burlington,MA,01803,781-273-2310
+Traderjoes,502,Shopping List,748 Memorial Dr,Cambridge,MA,02139,617-491-8582
+Traderjoes,517,Shopping List,211 Alewife Brook Pkwy,Cambridge,MA,02138,617-498-3201
+Traderjoes,528,Shopping List,350 Patriot Place,Foxborough,MA,02035,508-543-1978
+Traderjoes,503,Shopping List,659 Worcester Rd,Framingham,MA,01701,508-935-2931
+Traderjoes,512,Shopping List,375 Russell St,Hadley,MA,01035,413-587-3260
+Traderjoes,513,Shopping List,1775 Washington St,Hanover,MA,02339,339-298-1530
+Traderjoes,530,Shopping List,5 Essington Drive,Hingham,MA,02043,781-740-2038
+Traderjoes,514,Shopping List,"655 Iyannough Road Rt 132, Unit 4-A",Hyannis,MA,02601,508-790-3008
+Traderjoes,582,Shopping List,230 Fortune Blvd,Milford,MA,01757,508-318-9234
+Traderjoes,504,Shopping List,958 Highland Ave,Needham,MA,02494,781-449-6993
+Traderjoes,583,Shopping List,165 Needham St,Newton,MA,02464,617-340-5765
+Traderjoes,516,Shopping List,300 Andover St,Peabody,MA,01960,978-977-5316
+Traderjoes,873,Shopping List,34 Walkers Brook Drive,Reading,MA,01867,
+Traderjoes,506,Shopping List,358 Broadway,Saugus,MA,01906,781-231-0848
+Traderjoes,508,Shopping List,77 Boston Turnpike,Shrewsbury,MA,01545,508-755-9560
+Traderjoes,560,Shopping List,145 Middlesex Ave,Somerville,MA,02145,617-591-0124
+Traderjoes,509,Shopping List,1121 Washington St,West Newton,MA,02465,617-244-1620
+Traderjoes,650,Shopping List,"160 F Jennifer Rd, Ste F",Annapolis,MD,21401,410-573-0505
+Traderjoes,623,Shopping List,7900 Wisconsin Ave,Bethesda,MD,20814,301-215-7913
+Traderjoes,645,Shopping List,6831 Wisconsin Ave,Bethesda,MD,20815,301-907-0982
+Traderjoes,758,Shopping List,4429 Calvert Road,College Park,MD,20740,301-985-3704
+Traderjoes,658,Shopping List,6610 Marie Curie Dr,Elkridge,MD,21075,410-953-8139
+Traderjoes,655,Shopping List,1809 Reisterstown Rd,Pikesville,MD,21208,410-484-8373
+Traderjoes,589,Shopping List,225 N Washington St,Rockville,MD,20850,240-219-2398
+Traderjoes,642,Shopping List,12268-H Rockville Pike,Rockville,MD,20852,301-468-6656
+Traderjoes,648,Shopping List,10076 Darnestown Rd,Rockville,MD,20850,301-762-0782
+Traderjoes,652,Shopping List,10741 Columbia Pike,Silver Spring,MD,20901,301-681-1675
+Traderjoes,649,Shopping List,800 Kenilworth Drive,Towson,MD,21204,410-321-0276
+Traderjoes,519,Shopping List,87 Marginal Way,Portland,ME,04101,207-699-3799
+Traderjoes,678,Shopping List,2398 East Stadium Blvd,Ann Arbor,MI,48104,734-975-2455
+Traderjoes,675,Shopping List,6536 Telegraph Rd,Bloomfield Hills,MI,48301,248-855-2283
+Traderjoes,804,Shopping List,2755 E Grand River Ave,East Lansing,MI,48823,517-274-8581
+Traderjoes,665,Shopping List,17028 Kercheval Ave,Grosse Pointe,MI,48230,313-640-7794
+Traderjoes,708,Shopping List,5099 Century Ave,Kalamazoo,MI,49006,269-372-2049
+Traderjoes,707,Shopping List,3684 28th St SE,Kentwood,MI,49512,616-977-1819
+Traderjoes,667,Shopping List,18771 Traditions Drive,Northville,MI,48167,248-349-4909
+Traderjoes,668,Shopping List,3044 Walton Blvd,Rochester Hills,MI,48309,248-375-2190
+Traderjoes,674,Shopping List,27880 Woodward Ave,Royal Oak,MI,48067,248-582-9002
+Traderjoes,724,Shopping List,4270 W 78th St,Bloomington,MN,55435,952-835-8640
+Traderjoes,717,Shopping List,2065 Cliff Road,Eagan,MN,55122,651-362-4841
+Traderjoes,713,Shopping List,12105 Elm Creek Blvd N,Maple Grove,MN,55369,763-315-1739
+Traderjoes,725,Shopping List,"721 Washington Ave S, Suite 101",Minneapolis,MN,55415,612-339-2110
+Traderjoes,714,Shopping List,11220 Wayzata Blvd,Minnetonka,MN,55305,952-417-9080
+Traderjoes,718,Shopping List,1200 16th St SW,Rochester,MN,55902,507-281-4411
+Traderjoes,727,Shopping List,1041 Red Fox Rd,Shoreview,MN,55126,651-765-1398
+Traderjoes,710,Shopping List,4500 Excelsior Blvd,St. Louis Park,MN,55416,952-285-1053
+Traderjoes,716,Shopping List,484 Lexington Pkwy S,St. Paul,MN,55105,651-698-3119
+Traderjoes,715,Shopping List,"8960 Hudson Rd., Ste. 801",Woodbury,MN,55125,651-735-0269
+Traderjoes,692,Shopping List,48 Brentwood Promenade Court,Brentwood,MO,63144,314-963-0253
+Traderjoes,693,Shopping List,1679 Clarkson Rd,Chesterfield,MO,63017,636-536-7846
+Traderjoes,808,Shopping List,201 N Stadium Blvd,Columbia,MO,65203,573-370-7203
+Traderjoes,694,Shopping List,11505 Olive Blvd,Creve Coeur,MO,63141,314-569-0432
+Traderjoes,695,Shopping List,13343 Manchester Rd,Des Peres,MO,63131,314-984-5051
+Traderjoes,720,Shopping List,8600 Ward Pkwy,Kansas City,MO,64114,816-333-5322
+Traderjoes,740,Shopping List,120 Merrimon Ave,Asheville,NC,28801,828-232-5078
+Traderjoes,741,Shopping List,1393 Kildaire Farm Rd,Cary,NC,27511,919-465-5985
+Traderjoes,745,Shopping List,1800 E Franklin St,Chapel Hill,NC,27514,919-918-7871
+Traderjoes,742,Shopping List,6418 Rea Rd,Charlotte,NC,28277,704-543-5249
+Traderjoes,743,Shopping List,1820 E Arbors Dr,Charlotte,NC,28262,704-688-9578
+Traderjoes,744,Shopping List,1133 Metropolitan Ave,Charlotte,NC,28204,704-334-0737
+Traderjoes,750,Shopping List,3721 Battleground Ave.,Greensboro,NC,27410,336-286-7859
+Traderjoes,790,Shopping List,3160 B Evans St,Greenville,NC,27834,252-374-8457
+Traderjoes,791,Shopping List,951 Morrisville Parkway,Morrisville,NC,27560,919-460-4449
+Traderjoes,746,Shopping List,3000 Wake Forest Rd,Raleigh,NC,27609,919-981-7422
+Traderjoes,748,Shopping List,8111 Creedmoor Rd,Raleigh,NC,27613,984-252-3344
+Traderjoes,747,Shopping List,1437 S College Rd,Wilmington,NC,28403,910-507-8870
+Traderjoes,749,Shopping List,252 South Stratford Road,Winston Salem,NC,27103,336-721-1744
+Traderjoes,722,Shopping List,"3120 Pine Lake Rd, Ste R",Lincoln,NE,68516,402-328-0120
+Traderjoes,719,Shopping List,10305 Pacific St,Omaha,NE,68114,402-391-3698
+Traderjoes,562,Shopping List,2 Market Street,Bedford,NH,03110,603-222-3074
+Traderjoes,507,Shopping List,262 Daniel Webster HWY,Nashua,NH,03060,603-888-5460
+Traderjoes,520,Shopping List,45 Gosling Rd,Portsmouth,NH,03801,603-431-2654
+Traderjoes,615,Shopping List,110 Brick Plaza,Brick,NJ,08723,732-477-4781
+Traderjoes,614,Shopping List,315 Promenade Blvd,Bridgewater,NJ,08807,732-805-0268
+Traderjoes,613,Shopping List,775 Haddonfield Rd,Cherry Hill,NJ,08002,856-488-0801
+Traderjoes,610,Shopping List,259 Allwood Road,Clifton,NJ,07012,973-777-5020
+Traderjoes,617,Shopping List,3056 State Route 10 West,Denville,NJ,07834,973-537-3672
+Traderjoes,606,Shopping List,715 River Rd,Edgewater,NJ,07020,201-945-5932
+Traderjoes,604,Shopping List,176 Columbia Turnpike,Florham Park,NJ,07932,973-377-0679
+Traderjoes,590,Shopping List,"4331 Route 9, Unit 3",Freehold,NJ,07728,732-462-1539
+Traderjoes,611,Shopping List,1350 Willow Ave.,Hoboken,NJ,07030,201-714-4790
+Traderjoes,593,Shopping List,675 US-1,Iselin,NJ,08830,848-306-5497
+Traderjoes,631,Shopping List,300 P Route 73 S,Marlton,NJ,08053,856-988-3323
+Traderjoes,591,Shopping List,1447 NJ-35,Middletown Township,NJ,07748,732-808-3237
+Traderjoes,609,Shopping List,187 Millburn Ave,Millburn,NJ,07041,973-218-0912
+Traderjoes,612,Shopping List,869 US-1,North Brunswick,NJ,08902,732-993-1403
+Traderjoes,605,Shopping List,404 Rt 17 N,Paramus,NJ,07652,201-265-9624
+Traderjoes,607,Shopping List,3528 Brunswick Pike,Princeton,NJ,08540,609-897-0581
+Traderjoes,608,Shopping List,1031 Broad St,Shrewsbury,NJ,07702,732-389-2535
+Traderjoes,603,Shopping List,910 Hamburg Turnpike,Wayne,NJ,07470,973-872-4604
+Traderjoes,592,Shopping List,471 Mt Pleasant Ave,West Orange,NJ,07052,
+Traderjoes,601,Shopping List,155 Elm St,Westfield,NJ,07090,908-301-0910
+Traderjoes,602,Shopping List,20 Irvington St,Westwood,NJ,07675,201-263-0134
+Traderjoes,166,Shopping List,8928 Holly Ave NE,Albuquerque,NM,87122,505-796-0311
+Traderjoes,167,Shopping List,2200 Uptown Loop NE,Albuquerque,NM,87110,505-883-3662
+Traderjoes,165,Shopping List,530 W Cordova Rd,Santa Fe,NM,87505,505-995-8145
+Traderjoes,281,Shopping List,3790 US Hwy 395 S,Carson City,NV,89705,775-267-2486
+Traderjoes,280,Shopping List,10345 S Eastern Ave,Henderson,NV,89052,702-407-8673
+Traderjoes,97,Shopping List,2716 N Green Valley Pkwy,Henderson,NV,89014,702-433-6773
+Traderjoes,284,Shopping List,"2315 Summa Dr, Ste 100",Las Vegas,NV,89135,702-242-0597
+Traderjoes,86,Shopping List,7575 W Washington,Las Vegas,NV,89128,702-242-8240
+Traderjoes,98,Shopping List,5639 Centennial Ctr Blvd,Las Vegas,NV,89149,702-396-3372
+Traderjoes,278,Shopping List,"13945 S Virginia St, Suite 640",Reno,NV,89511,775-249-6301
+Traderjoes,82,Shopping List,5035 S McCarran Blvd,Reno,NV,89502,775-826-1621
+Traderjoes,279,Shopping List,185 Los Altos Pkwy,Sparks,NV,89436,775-259-1634
+Traderjoes,547,Shopping List,445 Gold St,Brooklyn,NY,11201,718-243-0107
+Traderjoes,548,Shopping List,200 Kent Ave,Brooklyn,NY,11249,718-218-7315
+Traderjoes,558,Shopping List,130 Court St,Brooklyn,NY,11201,718-246-8460
+Traderjoes,536,Shopping List,1565 Niagara Falls Blvd,Buffalo,NY,14228,716-833-4687
+Traderjoes,535,Shopping List,79 Wolf Rd,Colonie,NY,12205,518-482-4538
+Traderjoes,551,Shopping List,5900 Jericho Turnpike,Commack,NY,11725,631-499-0898
+Traderjoes,550,Shopping List,910 Old Country Rd,Garden City,NY,11530,516-794-0174
+Traderjoes,579,Shopping List,388 Feura Bush Rd,Glenmont,NY,12077,518-363-4927
+Traderjoes,574,Shopping List,3 Halfmoon Crossing Blvd,Halfmoon,NY,12065,518-383-5015
+Traderjoes,533,Shopping List,215 N Central Ave,Hartsdale,NY,10530,914-997-1960
+Traderjoes,554,Shopping List,1280 West Broadway,Hewlett,NY,11557,516-569-7191
+Traderjoes,568,Shopping List,744 S Meadow Street,Ithaca,NY,14850,607-272-1420
+Traderjoes,556,Shopping List,2085 Smith Haven Plaza,Lake Grove,NY,11755,631-366-2094
+Traderjoes,532,Shopping List,1260 Boston Post Rd,Larchmont,NY,10538,914-833-9112
+Traderjoes,553,Shopping List,1714 Merrick Rd,Merrick,NY,11566,516-771-1012
+Traderjoes,577,Shopping List,300 Rte 25A,Miller Place,NY,11764,934-225-8061
+Traderjoes,538,Shopping List,400 Grand St. (Cellar),New York,NY,10002,212-477-8340
+Traderjoes,539,Shopping List,233 Spring Street,New York,NY,10013,212-691-2721
+Traderjoes,540,Shopping List,142 E 14th St,New York,NY,10003,212-529-4612
+Traderjoes,542,Shopping List,2073 Broadway,New York,NY,10023,212-799-0028
+Traderjoes,543,Shopping List,675 6th Ave,New York,NY,10010,212-255-2106
+Traderjoes,544,Shopping List,200 E 32nd St,New York,NY,10016,212-889-3279
+Traderjoes,545,Shopping List,670 Columbus Ave,New York,NY,10025,212-678-1680
+Traderjoes,546,Shopping List,436 East 14th St,New York,NY,10009,212-777-9412
+Traderjoes,571,Shopping List,405 E. 59th Street,New York,NY,10022,212-935-3870
+Traderjoes,576,Shopping List,123 W 125th St,New York,NY,10027,646-337-1986
+Traderjoes,552,Shopping List,3418 Long Beach Rd,Oceanside,NY,11572,516-536-9163
+Traderjoes,555,Shopping List,425 S Oyster Bay Rd,Plainview,NY,11803,516-933-6900
+Traderjoes,557,Shopping List,9030 Metropolitan Ave,Queens,NY,11374,718-275-1791
+Traderjoes,565,Shopping List,22-43 Jackson Ave,Queens,NY,11101,718-472-2672
+Traderjoes,578,Shopping List,69-65 Yellowstone Blvd,Queens,NY,11375,718-544-8589
+Traderjoes,534,Shopping List,3349 Monroe Ave,Rochester,NY,14618,585-248-5011
+Traderjoes,531,Shopping List,727 White Plains Rd,Scarsdale,NY,10583,914-472-2988
+Traderjoes,559,Shopping List,2385 Richmond Ave,Staten Island,NY,10314,718-370-1085
+Traderjoes,580,Shopping List,6400 Amboy Rd,Staten Island,NY,10309,329-208-1571
+Traderjoes,537,Shopping List,3422 Erie Blvd E,Syracuse,NY,13214,315-446-1629
+Traderjoes,575,Shopping List,5017 Transit Rd,Williamsville,NY,14221,716-415-3179
+Traderjoes,567,Shopping List,3240 Crompond Road,Yorktown,NY,10598,914-737-1460
+Traderjoes,669,Shopping List,7788 Montgomery Rd,Cincinnati,OH,45236,513-984-3452
+Traderjoes,679,Shopping List,3888 Townsfair Way,Columbus,OH,43219,614-473-0794
+Traderjoes,672,Shopping List,6355 Sawmill Rd,Dublin,OH,43017,614-793-8505
+Traderjoes,673,Shopping List,328 East Stroop Rd,Kettering,OH,45429,937-294-5411
+Traderjoes,709,Shopping List,9474 Mentor Ave,Mentor,OH,44060,440-350-7216
+Traderjoes,677,Shopping List,175 Market St,Westlake,OH,44145,440-250-1592
+Traderjoes,676,Shopping List,28425 Chagrin Blvd,Woodmere,OH,44122,216-591-9457
+Traderjoes,462,Shopping List,1525 E Hillside Dr,Broken Arrow,OK,74012,539-207-0023
+Traderjoes,461,Shopping List,6409 Avondale Dr,Nichols Hills,OK,73116,405-843-5655
+Traderjoes,463,Shopping List,6920 Northwest Expy,Oklahoma City,OK,73132,405-357-0298
+Traderjoes,460,Shopping List,3702 S Peoria Ave,Tulsa,OK,74105,918-712-9768
+Traderjoes,141,Shopping List,11753 SW Beaverton Hillsdale Hwy,Beaverton,OR,97005,503-626-7398
+Traderjoes,150,Shopping List,63455 N Hwy 97,Bend,OR,97701,541-312-4198
+Traderjoes,152,Shopping List,9345 SE 82nd Ave,Clackamas,OR,97086,503-771-6300
+Traderjoes,154,Shopping List,"1550 NW 9th St, Ste 100",Corvallis,OR,97330,541-753-0048
+Traderjoes,145,Shopping List,85 Oakway Center,Eugene,OR,97401,541-485-1744
+Traderjoes,276,Shopping List,2083 NE Burnside Rd,Gresham,OR,97030,971-253-0535
+Traderjoes,149,Shopping List,2285 NW 185th Ave,Hillsboro,OR,97124,503-645-8321
+Traderjoes,142,Shopping List,15391 SW Bangy Rd,Lake Oswego,OR,97035,503-639-3238
+Traderjoes,155,Shopping List,55 Rossanley Dr,Medford,OR,97501,541-608-4993
+Traderjoes,275,Shopping List,15574 SE McLoughlin Blvd,Milwaukie,OR,97267,971-365-7604
+Traderjoes,143,Shopping List,4715 SE Cesar E. Chavez Blvd,Portland,OR,97202,503-777-1601
+Traderjoes,144,Shopping List,4121 NE Halsey St,Portland,OR,97232,503-284-4232
+Traderjoes,146,Shopping List,2122 NW Glisan St,Portland,OR,97210,971-544-0788
+Traderjoes,168,Shopping List,7215 SW Garden Home Road,Portland,OR,97223,503-244-4625
+Traderjoes,153,Shopping List,4450 Commercial St SE,Salem,OR,97302,503-378-9042
+Traderjoes,169,Shopping List,16200 SW Pacific Hwy,Tigard,OR,97224,503-443-6713
+Traderjoes,635,Shopping List,112 Coulter Ave,Ardmore,PA,19003,610-658-0645
+Traderjoes,584,Shopping List,550 Lancaster Ave,Berwyn,PA,19312,610-920-0029
+Traderjoes,569,Shopping List,3545 Gettysburg Road,Camp Hill,PA,17011,717-730-6025
+Traderjoes,594,Shopping List,125 West Lincoln Hwy,Exton,PA,19341,267-267-2910
+Traderjoes,633,Shopping List,933 Old York Rd,Jenkintown,PA,19046,215-885-5240
+Traderjoes,585,Shopping List,224 W Dekalb Pike,King of Prussia,PA,19406,484-261-7509
+Traderjoes,637,Shopping List,12 E State St,Media,PA,19063,610-891-2752
+Traderjoes,639,Shopping List,1460 Bethlehem Pike,North Wales,PA,19454,215-646-5870
+Traderjoes,618,Shopping List,1324 Arch St.,Philadelphia,PA,19107,215-563-2170
+Traderjoes,634,Shopping List,2121 Market St,Philadelphia,PA,19103,215-569-9282
+Traderjoes,624,Shopping List,9020 Covenant Ave,Pittsburgh,PA,15237,412-366-1131
+Traderjoes,630,Shopping List,1630 Washington Rd,Pittsburgh,PA,15241,412-835-2212
+Traderjoes,638,Shopping List,6343 Penn Ave,Pittsburgh,PA,15206,412-363-5748
+Traderjoes,629,Shopping List,243 Patriot Lane,State College,PA,16803,814-234-2224
+Traderjoes,632,Shopping List,171 E Swedesford Rd,Wayne,PA,19087,610-225-0925
+Traderjoes,572,Shopping List,425 S Main St,Providence,RI,02903,401-459-4090
+Traderjoes,518,Shopping List,1000 Bald Hill Rd,Warwick,RI,02886,401-821-5368
+Traderjoes,753,Shopping List,4516 Forest Drive,Columbia,SC,29206,803-790-2404
+Traderjoes,856,Shopping List,275 Harbison Blvd,Columbia,SC,29212,803-574-8020
+Traderjoes,751,Shopping List,59 Woodruff Industrial Ln,Greenville,SC,29607,864-286-0231
+Traderjoes,752,Shopping List,401 Johnnie Dodds Blvd,Mt. Pleasant,SC,29464,843-884-4037
+Traderjoes,812,Shopping List,1909 Hwy 17 N,Mt. Pleasant,SC,29464,854-223-5830
+Traderjoes,828,Shopping List,115 SayeBrook Pkwy,Myrtle Beach,SC,29588,843-630-6282
+Traderjoes,787,Shopping List,2111 Gunbarrel Road,Chattanooga,TN,37421,423-855-1310
+Traderjoes,792,Shopping List,545 Cool Springs Blvd,Franklin,TN,37067,615-771-3697
+Traderjoes,738,Shopping List,"2130 Exeter Rd., Suite 101",Germantown,TN,38138,901-759-2803
+Traderjoes,663,Shopping List,8001 Kingston Pike,Knoxville,TN,37919,865-670-4088
+Traderjoes,815,Shopping List,2305 Medical Center Parkway,Murfreesboro,TN,37129,629-260-7432
+Traderjoes,664,Shopping List,3909 Hillsboro Pike,Nashville,TN,37215,615-297-6560
+Traderjoes,739,Shopping List,90 White Bridge Rd,Nashville,TN,37205,615-356-1066
+Traderjoes,452,Shopping List,"211 Walter Seaholm Dr, Ste 100",Austin,TX,78701,512-474-2263
+Traderjoes,453,Shopping List,2805 Bee Cave Rd,Austin,TX,78746,512-306-1032
+Traderjoes,454,Shopping List,"9722 Great Hills Trail, Ste 200",Austin,TX,78759,512-241-1248
+Traderjoes,450,Shopping List,"12812 Shops Pkwy, Bee Cave",Bee Cave,TX,78738,737-379-1680
+Traderjoes,456,Shopping List,120 S Denton Tap Rd.,Coppell,TX,75019,945-202-7413
+Traderjoes,432,Shopping List,9715 Towne Lake Pkwy,Cypress,TX,77433,281-290-4216
+Traderjoes,400,Shopping List,4525 Cole Ave,Dallas,TX,75205,214-599-2155
+Traderjoes,401,Shopping List,7939 Walnut Hill Lane,Dallas,TX,75230,214-346-6579
+Traderjoes,403,Shopping List,2001 Greenville Ave,Dallas,TX,75206,469-334-0614
+Traderjoes,405,Shopping List,"5550 W Lovers Lane, Ste 168",Dallas,TX,75209,214-366-0205
+Traderjoes,407,Shopping List,14856 Preston Rd,Dallas,TX,75254,972-239-3901
+Traderjoes,404,Shopping List,2701 S Hulen St,Fort Worth,TX,76109,817-922-9107
+Traderjoes,426,Shopping List,2922 S Shepherd Drive,Houston,TX,77098,713-526-4034
+Traderjoes,427,Shopping List,1440 South Voss Road,Houston,TX,77057,713-266-2377
+Traderjoes,431,Shopping List,11683 Westheimer Rd,Houston,TX,77077,281-496-2488
+Traderjoes,429,Shopping List,2717 Commercial Center Blvd,Katy,TX,77494,281-392-4200
+Traderjoes,433,Shopping List,600 Kingwood Dr,Kingwood,TX,77339,281-453-6996
+Traderjoes,408,Shopping List,"2851 Craig Dr, Ste 100",McKinney,TX,75070,214-491-1893
+Traderjoes,410,Shopping List,8101 Eldorado Pkwy,McKinney,TX,75070,
+Traderjoes,402,Shopping List,"2400 Preston Rd, Ste 200",Plano,TX,75093,972-312-9538
+Traderjoes,451,Shopping List,350 East Basse Road,San Antonio,TX,78209,210-826-1110
+Traderjoes,455,Shopping List,403 N Loop 1604 W,San Antonio,TX,78232,210-939-5789
+Traderjoes,457,Shopping List,11745 I-10 W,San Antonio,TX,78230,210-607-6510
+Traderjoes,406,Shopping List,1492 E Southlake Blvd,Southlake,TX,76092,817-251-0360
+Traderjoes,430,Shopping List,13550 University Blvd,Sugar Land,TX,77479,281-805-3021
+Traderjoes,428,Shopping List,10868 Kuykendahl Road,The Woodlands,TX,77381,281-465-0254
+Traderjoes,351,Shopping List,6989 S 1300 E,Cottonwood Heights,UT,84047,801-562-3024
+Traderjoes,353,Shopping List,11477 S. State St.,Draper,UT,84020,801-571-0987
+Traderjoes,356,Shopping List,4850 W 13400 South,Herriman,UT,84096,
+Traderjoes,357,Shopping List,1895 East Rodeo Walk Dr,Holladay,UT,84117,385-324-2911
+Traderjoes,352,Shopping List,440 East Park Avenue,Orem,UT,84097,801-224-1453
+Traderjoes,355,Shopping List,"4060 Riverdale Rd, Suite B",Riverdale,UT,84405,385-298-4276
+Traderjoes,350,Shopping List,634 East 400 South,Salt Lake City,UT,84102,801-359-2462
+Traderjoes,354,Shopping List,2160 S 700 E,Salt Lake City,UT,84106,801-720-8834
+Traderjoes,647,Shopping List,612 N Saint Asaph St,Alexandria,VA,22314,703-548-0611
+Traderjoes,640,Shopping List,1109 N Highland St,Arlington,VA,22201,703-351-8015
+Traderjoes,619,Shopping List,44755 Brimfield Dr,Ashburn,VA,20147,703-858-5993
+Traderjoes,644,Shopping List,5847 Leesburg Pike,Bailey&#x27;s Crossroads,VA,22041,703-379-5883
+Traderjoes,654,Shopping List,14100 Lee Hwy,Centreville,VA,20120,703-815-0697
+Traderjoes,661,Shopping List,2025 Bond St.,Charlottesville,VA,22901,434-974-1466
+Traderjoes,643,Shopping List,9464 Main St,Fairfax,VA,22031,703-764-8550
+Traderjoes,641,Shopping List,7514 Leesburg Turnpike,Falls Church,VA,22043,703-288-0566
+Traderjoes,659,Shopping List,11331 W Broad St,Glen Allen,VA,23060,804-360-4098
+Traderjoes,817,Shopping List,504 Fort Evans Rd NE,Leesburg,VA,20176,571-582-2209
+Traderjoes,656,Shopping List,12551 Jefferson Ave,Newport News,VA,23602,757-890-0235
+Traderjoes,646,Shopping List,11958 Killingsworth Ave,Reston,VA,20194,703-689-0865
+Traderjoes,786,Shopping List,3000 Stony Point Rd,Richmond,VA,23235,804-323-4292
+Traderjoes,651,Shopping List,6394 Springfield Plaza,Springfield,VA,22150,703-569-9301
+Traderjoes,660,Shopping List,503 Hilltop Plaza,Virginia Beach,VA,23454,757-422-4840
+Traderjoes,823,Shopping List,220 Constitution Drive,Virginia Beach,VA,23462,757-863-7406
+Traderjoes,809,Shopping List,8402 Old Keene Mill Rd,West Springfield,VA,22152,703-202-8770
+Traderjoes,657,Shopping List,5000 Settlers Market Blvd,Williamsburg,VA,23188,757-259-2135
+Traderjoes,527,Shopping List,200 Dorset St,South Burlington,VT,05403,802-658-4500
+Traderjoes,131,Shopping List,15563 NE 24th St,Bellevue,WA,98007,425-641-5069
+Traderjoes,162,Shopping List,416 116th Ave NE,Bellevue,WA,98004,425-454-9799
+Traderjoes,151,Shopping List,2410 James St,Bellingham,WA,98225,360-734-5166
+Traderjoes,274,Shopping List,"4255 Meridian St, Suite 200",Bellingham,WA,98226,360-217-2007
+Traderjoes,133,Shopping List,15868 1st Ave S,Burien,WA,98148,206-901-9339
+Traderjoes,139,Shopping List,1302 SE Everett Mall Way,Everett,WA,98208,425-464-5485
+Traderjoes,134,Shopping List,1758 S 320th St,Federal Way,WA,98003,253-941-6138
+Traderjoes,138,Shopping List,975 NW Gilman Blvd,Issaquah,WA,98027,425-557-6420
+Traderjoes,163,Shopping List,12966 SE Kent-Kangley Rd,Kent,WA,98030,253-639-3419
+Traderjoes,132,Shopping List,"12520 Totem Lake Blvd NE, Suite 116",Kirkland,WA,98034,425-814-9181
+Traderjoes,292,Shopping List,691 Sleater Kinney Rd SE,Lacey,WA,98503,360-858-5284
+Traderjoes,129,Shopping List,"19715 Highway 99, Suite 101",Lynnwood,WA,98036,425-670-0623
+Traderjoes,156,Shopping List,1530 Black Lake Blvd SW,Olympia,WA,98502,360-352-7440
+Traderjoes,140,Shopping List,15932 Redmond Way,Redmond,WA,98052,425-883-1624
+Traderjoes,160,Shopping List,490 228th Ave NE,Sammamish,WA,98074,425-836-0837
+Traderjoes,130,Shopping List,1700 Madison St,Seattle,WA,98122,206-322-7268
+Traderjoes,135,Shopping List,1916 Queen Anne Ave N,Seattle,WA,98109,206-284-2546
+Traderjoes,137,Shopping List,4555 Roosevelt Way NE,Seattle,WA,98105,206-547-6299
+Traderjoes,147,Shopping List,4609 14th Ave NW,Seattle,WA,98107,206-783-0498
+Traderjoes,157,Shopping List,4545 Fauntleroy Way SW,Seattle,WA,98116,206-913-0013
+Traderjoes,273,Shopping List,8726 Greenwood Ave,Seattle,WA,98103,206-414-6379
+Traderjoes,297,Shopping List,401 NE Northgate Way,Seattle,WA,98125,
+Traderjoes,270,Shopping List,1201 N 175th St,Shoreline,WA,98133,206-542-5336
+Traderjoes,158,Shopping List,9991 Mickelberry Rd,Silverdale,WA,98383,360-307-7224
+Traderjoes,296,Shopping List,13414 E Sprague Ave,Spokane Valley,WA,99216,
+Traderjoes,159,Shopping List,2975 East 29th Ave,Spokane,WA,99223,509-534-1077
+Traderjoes,164,Shopping List,5520 N Division St,Spokane,WA,99208,509-487-4188
+Traderjoes,148,Shopping List,3800 Bridgeport Way W,University Place,WA,98466,253-460-2672
+Traderjoes,136,Shopping List,305 SE Chkalov Dr,Vancouver,WA,98683,360-883-9000
+Traderjoes,271,Shopping List,14007 NE 10th Ave,Vancouver,WA,98685,360-512-2792
+Traderjoes,272,Shopping List,16701 Mill Plain Blvd,Vancouver,WA,98683,360-322-3554
+Traderjoes,293,Shopping List,14035 NE Woodinville Duvall Rd,Woodinville,WA,98072,
+Traderjoes,726,Shopping List,12665 W. Bluemound Rd,Brookfield,WI,53005,262-784-4806
+Traderjoes,712,Shopping List,1810 Monroe St,Madison,WI,53711,608-257-1916
+Traderjoes,711,Shopping List,5600 N Port Washington Rd,Milwaukee,WI,53217,414-962-3382
